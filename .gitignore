@@ -1,2 +1,5 @@
 # Dependencies
 frontend/expense-tracker/node_modules/
+
+# VS Code
+.vscode/
