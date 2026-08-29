@@ -5,6 +5,17 @@
   --font-display: "Arimo", sans-serif;
   --breakpoint-3xl: 1920px;
   --color-primary: #214526;
+  --color-brand-50: #EEF7EF;
+  --color-brand-100: #CFE8D2;
+  --color-brand-200: #B0D9B5;
+  --color-brand-300: #91CA98;
+  --color-brand-400: #72BB7C;
+  --color-brand-500: #53AC5F;
+  --color-brand-600: #448D4E;
+  --color-brand-700: #356E3D;
+  --color-brand-800: #214526;
+  --color-brand-900: #17301B;
+  --color-brand-950: #081109;
 }
 
 @layer base {
